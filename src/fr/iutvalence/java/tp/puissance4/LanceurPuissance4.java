@@ -9,7 +9,7 @@ import javax.swing.SwingUtilities;
 public class LanceurPuissance4
 {
 	/**
-	 * Creation et dÃ©marrage d'une partie de Puissance 4
+	 * Creation et démarrage d'une partie de Puissance 4
 	 * 
 	 * @param args
 	 *            les arguments de la ligne de commande (aucun pour l'instant)
